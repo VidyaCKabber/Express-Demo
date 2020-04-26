@@ -8,7 +8,7 @@ Express.js is a modular web framework for Node.js. It is used for easier creatio
 
 It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.
 
-# Prerequisite and usage
+# Prerequisites
 
 1. Install Node
 2. Install express => npm i express
